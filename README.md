@@ -1,6 +1,6 @@
 ## Welcom to Yaikaew's Wonderland
 
-![yaikaew](https://drive.google.com/file/d/16cKV3nbfqCP-tGX3WJG5YlX231xLkjlU/view?usp=sharing)
+![yaikaew](file:///C:/Users/yaikaew/Desktop/yaikaew/76588.jpg)
 
 ### Profile
 Name : Punyawee Dokkum
