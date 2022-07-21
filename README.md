@@ -1,6 +1,5 @@
 ## Welcom to Yaikaew's Wonderland
-
-![yaikaew](file:///C:/Users/yaikaew/Desktop/yaikaew/76588.jpg)
+03 year of a new being
 
 ### Profile
 Name : Punyawee Dokkum
