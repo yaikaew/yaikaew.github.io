@@ -10,6 +10,8 @@ Birthdate : 2003-08-12
 
 
 ### Contact
+email : yaikaew46@gmail.com
+
 Facebook : [Yaikaew Punyawee](https://www.facebook.com/profile.php?id=100004631406249)
 
 Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
