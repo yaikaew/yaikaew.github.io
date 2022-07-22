@@ -8,8 +8,6 @@ Nickname : Yaikaew
 
 Birthdate : 2003-08-12
 
-Student ID : 6401012630108
-
 
 ### Contact
 Facebook : [Yaikaew Punyawee](https://www.facebook.com/profile.php?id=100004631406249)
