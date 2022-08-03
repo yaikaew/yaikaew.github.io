@@ -3,6 +3,10 @@
 
 <img align="center" src="52235.jpg" alt="52235" width="150" height="150">
 
+<p align="center">
+  <img width="200" height="200" src="52235.jpg">
+</p>
+
 ### Profile
 Name : Punyawee Dokkum
 
