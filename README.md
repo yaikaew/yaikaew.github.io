@@ -1,6 +1,8 @@
 ## Welcom to Yaikaew's Wonderland
 ***03 year of a new being***
 
+<img src="52235.jpg" alt="4704F764-39A7-46D6-A54A-572255CAF976" width="15" height="15"/>
+
 ### Profile
 Name : Punyawee Dokkum
 
