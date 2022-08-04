@@ -24,6 +24,4 @@ Twitter : [@yaikaew03](https://twitter.com/yaikaew03)
 
 
 ### Table of Contents
-<<<<<<< HEAD
 [Install Ubuntu](https://yaikaew.github.io/InstallUbuntu.html)
-=======
