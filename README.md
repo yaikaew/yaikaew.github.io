@@ -2,7 +2,7 @@
 ***03 year of a new being***
 
 <p align="center">
-  <img width="200" height="200" src="profile.jpg">
+  <img width="200" height="200" src="/images/profile.jpg">
 </p>
 
 ### Profile
