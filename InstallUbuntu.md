@@ -4,7 +4,7 @@ title: Install Ubuntu
 ---
 [<< Home](https://yaikaew.github.io/index.html)
 
-hello world
+tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps) ,  [02](https://drive.google.com/file/d/1pNHs8TqvKByXnIdB4H_TotzMNEbrlSil/view)
 
 ![01](images/install ubuntu/01.png)
 
