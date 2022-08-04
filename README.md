@@ -24,6 +24,4 @@ Twitter : [@yaikaew03](https://twitter.com/yaikaew03)
 
 
 ### Table of Contents
-[test01](https://yaikaew.github.io/test01.html)
-
-### อ้างอิง
+[Install Ubuntu](https://yaikaew.github.io/InstallUbuntu.html)
