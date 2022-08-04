@@ -2,7 +2,7 @@
 ***03 year of a new being***
 
 <p align="center">
-  <img width="200" height="200" src="52237.jpg">
+  <img width="200" height="200" src="/images/profile.jpg">
 </p>
 
 ### Profile
@@ -24,4 +24,6 @@ Twitter : [@yaikaew03](https://twitter.com/yaikaew03)
 
 
 ### Table of Contents
+<<<<<<< HEAD
 [Install Ubuntu](https://yaikaew.github.io/InstallUbuntu.html)
+=======
