@@ -35,6 +35,8 @@ tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
 
 ![10](images/install ubuntu/10.png)
 
+<sub>Basic Linux Commands</sub>
+
 ![11](images/install ubuntu/11.png)
 
 ![12](images/install ubuntu/12.png)
