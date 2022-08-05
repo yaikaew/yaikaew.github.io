@@ -8,11 +8,16 @@ title: Install Ubuntu
 
 tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps) ,  [02](https://drive.google.com/file/d/1KjTbJc478L7zlyJME0eSXdGHQ_a2Lulv/view?usp=sharing)
 
-**Install WSL**
+**- Install WSL**
 
 ![01](images/install ubuntu/01.png)
 
+**- Install Ubuntu**
+<sub>search "Ubuntu" in Microsoft Store</sub>
+
 ![02](images/install ubuntu/02.png)
+
+<sub>open it</sub>
 
 ![03](images/install ubuntu/03.png)
 
