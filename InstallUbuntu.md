@@ -13,6 +13,7 @@ tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
 ![01](images/install ubuntu/01.png)
 
 **- Install Ubuntu**
+
 <sub>search "Ubuntu" in Microsoft Store</sub>
 
 ![02](images/install ubuntu/02.png)
