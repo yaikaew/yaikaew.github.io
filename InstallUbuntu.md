@@ -4,7 +4,7 @@ title: Install Ubuntu
 ---
 [<< Home](https://yaikaew.github.io/index.html)
 
-# Install Ubuntu
+## Install Ubuntu
 
 tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps) ,  [02](https://drive.google.com/file/d/1KjTbJc478L7zlyJME0eSXdGHQ_a2Lulv/view?usp=sharing)
 
