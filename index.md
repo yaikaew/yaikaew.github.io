@@ -5,7 +5,7 @@
   <img width="400" height="400" src="/images/profile.jpg">
 </p>
 
-### Profile
+### Profile ✨
 Name : Punyawee Dokkum
 
 Nickname : Yaikaew
@@ -13,7 +13,7 @@ Nickname : Yaikaew
 Birthdate : 2003-08-12
 
 
-### Contact
+### Contact ☎️
 email : [yaikaew46@gmail.com](mailto:yaikaew46@gmail.com)
 
 Facebook : [Yaikaew Punyawee](https://www.facebook.com/profile.php?id=100004631406249)
@@ -21,5 +21,5 @@ Facebook : [Yaikaew Punyawee](https://www.facebook.com/profile.php?id=1000046314
 Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
 
 
-### Table of Contents
+### My Pages 📔
 [Install Ubuntu](https://yaikaew.github.io/InstallUbuntu.html)
