@@ -2,7 +2,7 @@
 ***03 year of a new being***
 
 <p align="center">
-  <img width="200" height="200" src="/images/profile.jpg">
+  <img width="400" height="400" src="/images/profile.jpg">
 </p>
 
 ### Profile
@@ -19,8 +19,6 @@ email : [yaikaew46@gmail.com](mailto:yaikaew46@gmail.com)
 Facebook : [Yaikaew Punyawee](https://www.facebook.com/profile.php?id=100004631406249)
 
 Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
-
-Twitter : [@yaikaew03](https://twitter.com/yaikaew03)
 
 
 ### Table of Contents
