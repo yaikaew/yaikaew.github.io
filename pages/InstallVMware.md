@@ -12,6 +12,7 @@ title: Install VMware
 
 ![01](/images/install vmware/01.png)
 
+
 **- Download VMware**
 
 download version 16.2.4
@@ -23,3 +24,5 @@ download version 16.2.4
 ![03](/images/install vmware/03.png)
 
 [<< Home](https://yaikaew.github.io/index.html)
+
+**- Install VMware**
