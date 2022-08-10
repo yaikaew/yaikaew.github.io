@@ -6,7 +6,7 @@ title: Install VMware
 
 ## Install VMware
 
-**- Download ubuntu server 22.04 LTS**
+**- Download Ubuntu Server 22.04 LTS**
 
 [download here](https://ubuntu.com/download/server)
 
