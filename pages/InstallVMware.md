@@ -12,7 +12,6 @@ title: Install VMware
 
 ![01](/images/install vmware/01.png)
 
-
 **- Download VMware**
 version 16.2.4
 
@@ -22,7 +21,7 @@ version 16.2.4
 
 ![03](/images/install vmware/03.png)
 
-**- Install VMware**
+**- Setup VMware**
 
 **- Connect VMware and Ubuntu Server**
 
