@@ -24,6 +24,6 @@ version 16.2.4
 
 **- Install VMware**
 
-
+**- Connect VMware and Ubuntu Server**
 
 [<< Home](https://yaikaew.github.io/index.html)
