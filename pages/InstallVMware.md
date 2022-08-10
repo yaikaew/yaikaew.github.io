@@ -41,6 +41,37 @@ version 16.2.4
 
 **- Connect VMware and Ubuntu Server**
 
+open VMware
+
+![12](/images/install vmware/12.png)
+
+select file .iso
+
+![13](/images/install vmware/13.png)
+
+![14](/images/install vmware/14.png)
+
+![15](/images/install vmware/15.png)
+
+![16](/images/install vmware/16.png)
+
+![17](/images/install vmware/17.png)
+
+wait..
+
+![18](/images/install vmware/18.png)
+
+![19](/images/install vmware/19.png)
+
+Setup Profile
+
+![20](/images/install vmware/20.png)
+
+![21](/images/install vmware/21.png)
+
+<sub>Basic Linux Commands</sub>
+
+![22](/images/install vmware/22.png)
 
 
 [<< Home](https://yaikaew.github.io/index.html)
