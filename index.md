@@ -24,4 +24,4 @@ Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
 ### My Pages 📔
 [Install Ubuntu on WSL2](https://yaikaew.github.io/pages/InstallUbuntu.html)
 
-[Install Ubuntu on VMware](https://yaikaew.github.io/pages/InstallVMware.html)
+[Install Ubuntu Server on VMware](https://yaikaew.github.io/pages/InstallVMware.html)
