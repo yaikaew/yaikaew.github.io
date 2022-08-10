@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-merlot
-title: Install Ubuntu on VMware
+title: Install Ubuntu Server on VMware
 ---
 [<< Home](https://yaikaew.github.io/index.html)
 
-## Install Ubuntu on VMware
+## Install Ubuntu Server on VMware
 
 **- Download Ubuntu Server 22.04 LTS**
 
