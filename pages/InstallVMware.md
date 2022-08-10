@@ -8,7 +8,7 @@ title: Install VMware
 
 **- Download Ubuntu Server 22.04 LTS**
 
-[download here](https://ubuntu.com/download/server)
+[link here](https://ubuntu.com/download/server)
 
 ![01](/images/install vmware/01.png)
 
@@ -16,7 +16,7 @@ title: Install VMware
 
 download version 16.2.4
 
-[download here](https://www.vmware.com/products/workstation-player.html)
+[link here](https://www.vmware.com/products/workstation-player.html)
 
 ![02](/images/install vmware/02.png)
 
