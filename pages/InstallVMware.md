@@ -23,6 +23,8 @@ download version 16.2.4
 
 ![03](/images/install vmware/03.png)
 
-[<< Home](https://yaikaew.github.io/index.html)
-
 **- Install VMware**
+
+
+
+[<< Home](https://yaikaew.github.io/index.html)
