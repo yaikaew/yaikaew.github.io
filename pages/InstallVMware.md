@@ -14,8 +14,7 @@ title: Install VMware
 
 
 **- Download VMware**
-
-download version 16.2.4
+version 16.2.4
 
 [link here](https://www.vmware.com/products/workstation-player.html)
 
