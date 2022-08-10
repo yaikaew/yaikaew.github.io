@@ -23,3 +23,5 @@ Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
 
 ### My Pages 📔
 [Install Ubuntu](https://yaikaew.github.io/pages/InstallUbuntu.html)
+
+[Install VMware](https://yaikaew.github.io/pages/InstallVMware.html)
