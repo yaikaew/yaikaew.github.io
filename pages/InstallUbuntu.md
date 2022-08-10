@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-merlot
-title: Install Ubuntu
+title: Install Ubuntu on WSL2
 ---
 [<< Home](https://yaikaew.github.io/index.html)
 
-## Install Ubuntu
+## Install Ubuntu on WSL2
 
 tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps) ,  [02](https://drive.google.com/file/d/1KjTbJc478L7zlyJME0eSXdGHQ_a2Lulv/view?usp=sharing)
 
