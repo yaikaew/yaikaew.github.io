@@ -10,7 +10,7 @@ title: Install Ubuntu Desktop on VMware
 
 [link here](https://ubuntu.com/download/desktop)
 
-
+**- Open VMware**
 
 
 [<< Home](https://yaikaew.github.io/index.html)
