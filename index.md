@@ -27,3 +27,6 @@ Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
 [Install Ubuntu Server on VMware](https://yaikaew.github.io/pages/InstallUbuntuServeronVMware.html)
 
 [Install Ubuntu Desktop on VMware](https://yaikaew.github.io/pages/InstallUbuntuDesktoponVMware.html)
+
+[Exploring Node-RED](https://yaikaew.github.io/pages/ExploringNodeRED.html)
+
