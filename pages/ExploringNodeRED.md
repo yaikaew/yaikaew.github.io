@@ -32,6 +32,7 @@ title: Exploring Node-RED
 ![06](/images/node-red/docker/06.png)
 ![07](/images/node-red/docker/07.png)
 ![08](/images/node-red/docker/08.png)
+![09](/images/node-red/docker/09.png)
 
 
 [<< Home](https://yaikaew.github.io/index.html)
