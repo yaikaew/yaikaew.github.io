@@ -6,7 +6,7 @@ title: Exploring Raspberry Pi
 
 ## Exploring Raspberry Pi
 
-**- Raspberry Pi OS (64-bit)**
+**- Download Raspberry Pi OS (64-bit)**
 
 [link here](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-64-bit)
 
