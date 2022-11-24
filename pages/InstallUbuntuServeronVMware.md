@@ -12,6 +12,7 @@ title: Install Ubuntu Server on VMware
 
 ![01](/images/Install Ubuntu Server on VMware/01.png)
 
+
 **- Download VMware**
 version 16.2.4
 
@@ -20,6 +21,7 @@ version 16.2.4
 ![02](/images/Install Ubuntu Server on VMware/02.png)
 
 ![03](/images/Install Ubuntu Server on VMware/03.png)
+
 
 **- Setup VMware**
 
@@ -39,11 +41,14 @@ version 16.2.4
 
 ![11](/images/Install Ubuntu Server on VMware/11.png)
 
+
 **- Connect VMware and Ubuntu Server**
+
 
 open VMware
 
 ![12](/images/Install Ubuntu Server on VMware/12.png)
+
 
 select file .iso
 
@@ -57,17 +62,21 @@ select file .iso
 
 ![17](/images/Install Ubuntu Server on VMware/17.png)
 
+
 wait..
+
 
 ![18](/images/Install Ubuntu Server on VMware/18.png)
 
 ![19](/images/Install Ubuntu Server on VMware/19.png)
+
 
 Setup Profile
 
 ![20](/images/Install Ubuntu Server on VMware/20.png)
 
 ![21](/images/Install Ubuntu Server on VMware/21.png)
+
 
 <sub>Basic Linux Commands</sub>
 
