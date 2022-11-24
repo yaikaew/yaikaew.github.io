@@ -19,6 +19,7 @@ tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
 ![02](/images/Install Ubuntu on WSL3/02.png)
 
 <sub>open it</sub>
+
 ![03](/images/Install Ubuntu on WSL4/03.png)
 
 ![04](/images/Install Ubuntu on WSL5/04.png)
@@ -36,6 +37,7 @@ tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
 ![10](/images/Install Ubuntu on WSL11/10.png)
 
 <sub>Basic Linux Commands</sub>
+
 ![11](/images/Install Ubuntu on WSL12/11.png)
 
 ![12](/images/Install Ubuntu on WSL13/12.png)
