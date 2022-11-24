@@ -6,6 +6,10 @@ title: Connect Google Sheet To Line
 
 ## Setting Google Sheet
 
+เปิด Google Sheet ที่เราได้สร้างไว้
+![38](/images/Google Sheet and Line/38.png)
+
+จากนั้นไปที่ส่วนขยาย
 ![01](/images/Google Sheet and Line/01.png)
 ![02](/images/Google Sheet and Line/02.png)
 
