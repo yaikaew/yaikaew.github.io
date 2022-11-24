@@ -14,7 +14,7 @@ Birthdate : 2003-08-12
 
 
 ### Contact ☎️
-email : [yaikaew46@gmail.com](mailto:yaikaew46@gmail.com)
+email : [s6401012630108@email.kmutnb.ac.th](mailto:s6401012630108@email.kmutnb.ac.th)
 
 Facebook : [Yaikaew Punyawee](https://www.facebook.com/profile.php?id=100004631406249)
 
