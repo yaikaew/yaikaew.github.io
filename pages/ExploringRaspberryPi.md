@@ -12,5 +12,6 @@ title: Exploring Raspberry Pi
 
 ![01](/images/Raspberry Pi/01.png)
 
+ลองแล้วแต่ไม่ได้แคปรูป
 
 [<< Home](https://yaikaew.github.io/index.html)
