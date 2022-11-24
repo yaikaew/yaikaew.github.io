@@ -153,7 +153,7 @@ URL ที่นำมาให้ Copy จาก Google Sheet ของเร�
 
 ![36](/images/Google Sheet and Line/36.png)
 
-![37](/images/Google Sheet and Line/37.png)
+![37](/images/Google Sheet and Line/37.jpg)
 
 
 [<< Home](https://yaikaew.github.io/index.html)
