@@ -41,6 +41,6 @@ Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
 
 ### Microsoft Word 🖨️
 
-[Create Cover](https://yaikaew.github.io/pages/word/word/Cover.html)
+[Create Cover](https://yaikaew.github.io/pages/word/Cover.html)
 
 [Page Number](https://yaikaew.github.io/pages/word/PageNumber.html)
