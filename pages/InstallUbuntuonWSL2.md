@@ -10,36 +10,36 @@ tutorial : [01](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
 
 **- Install WSL**
 
-![01](/images/Install Ubuntu on WSL2 on WSL2/01.png)
+![01](/images/Install Ubuntu on WSL2/01.png)
 
 **- Install Ubuntu**
 
 <sub>search "Ubuntu" in Microsoft Store</sub>
 
-![02](/images/Install Ubuntu on WSL2 on WSL2/02.png)
+![02](/images/Install Ubuntu on WSL2/02.png)
 
 <sub>open it</sub>
 
-![03](/images/Install Ubuntu on WSL2 on WSL2 on WSL2/03.png)
+![03](/images/Install Ubuntu on WSL2/03.png)
 
-![04](/images/Install Ubuntu on WSL2 on WSL2/04.png)
+![04](/images/Install Ubuntu on WSL2/04.png)
 
-![05](/images/Install Ubuntu on WSL2 on WSL2/05.png)
+![05](/images/Install Ubuntu on WSL2/05.png)
 
-![06](/images/Install Ubuntu on WSL2 on WSL2/06.png)
+![06](/images/Install Ubuntu on WSL2/06.png)
 
-![07](/images/Install Ubuntu on WSL2 on WSL2/07.png)
+![07](/images/Install Ubuntu on WSL2/07.png)
 
-![08](/images/Install Ubuntu on WSL2 on WSL2/08.png)
+![08](/images/Install Ubuntu on WSL2/08.png)
 
-![09](/images/Install Ubuntu on WSL2 on WSL2/09.png)
+![09](/images/Install Ubuntu on WSL2/09.png)
 
-![10](/images/Install Ubuntu on WSL2 on WSL2/10.png)
+![10](/images/Install Ubuntu on WSL2/10.png)
 
 <sub>Basic Linux Commands</sub>
 
-![11](/images/Install Ubuntu on WSL2 on WSL2/11.png)
+![11](/images/Install Ubuntu on WSL2/11.png)
 
-![12](/images/Install Ubuntu on WSL2 on WSL2/12.png)
+![12](/images/Install Ubuntu on WSL2/12.png)
 
 [<< Home](https://yaikaew.github.io/index.html)
