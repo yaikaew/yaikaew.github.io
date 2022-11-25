@@ -38,3 +38,9 @@ Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
 
 [Connect Google Sheet To Line](https://yaikaew.github.io/pages/ConnectGoogleSheetToLine.html)
 
+
+### Microsoft Word 🖨️
+
+[Create Cover](https://yaikaew.github.io/pages/word/Cover.html)
+
+[Page Number](https://yaikaew.github.io/pages/word/PageNumber.html)
