@@ -10,7 +10,7 @@ title: Exploring Raspberry Pi
 
 [link here](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-64-bit)
 
-![01](/images/Raspberry Pi/01.png)
+![01](/images/software dev/Raspberry Pi/01.png)
 
 ลองแล้วแต่ไม่ได้แคปรูป
 
