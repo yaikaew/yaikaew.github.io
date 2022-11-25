@@ -22,25 +22,25 @@ Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
 
 
 ### My Pages 📔
-[Install Ubuntu on WSL2](https://yaikaew.github.io/pages/software dev/InstallUbuntuonWSL2.html)
+[Install Ubuntu on WSL2](https://yaikaew.github.io/pages/SoftwareDev/InstallUbuntuonWSL2.html)
 
-[Install Ubuntu Server on VMware](https://yaikaew.github.io/pages/software dev/InstallUbuntuServeronVMware.html)
+[Install Ubuntu Server on VMware](https://yaikaew.github.io/pages/SoftwareDev/InstallUbuntuServeronVMware.html)
 
-[Install Ubuntu Desktop on VMware](https://yaikaew.github.io/pages/software dev/InstallUbuntuDesktoponVMware.html)
+[Install Ubuntu Desktop on VMware](https://yaikaew.github.io/pages/SoftwareDev/InstallUbuntuDesktoponVMware.html)
 
-[Exploring Raspberry Pi](https://yaikaew.github.io/pages/software dev/ExploringRaspberryPi.html)
+[Exploring Raspberry Pi](https://yaikaew.github.io/pages/SoftwareDev/ExploringRaspberryPi.html)
 
-[Exploring Node-RED](https://yaikaew.github.io/pages/software dev/ExploringNodeRED.html)
+[Exploring Node-RED](https://yaikaew.github.io/pages/SoftwareDev/ExploringNodeRED.html)
 
 ### My Mini Project 💻
 
-[Connect Node-RED To Google Sheet](https://yaikaew.github.io/pages/software dev/ConnectNodeRedToGoogleSheet.html)
+[Connect Node-RED To Google Sheet](https://yaikaew.github.io/pages/SoftwareDev/ConnectNodeRedToGoogleSheet.html)
 
-[Connect Google Sheet To Line](https://yaikaew.github.io/pages/software dev/ConnectGoogleSheetToLine.html)
+[Connect Google Sheet To Line](https://yaikaew.github.io/pages/SoftwareDev/ConnectGoogleSheetToLine.html)
 
 
 ### Microsoft Word 🖨️
 
-[Create Cover](https://yaikaew.github.io/pages/software dev/word/Cover.html)
+[Create Cover](https://yaikaew.github.io/pages/word/word/Cover.html)
 
 [Page Number](https://yaikaew.github.io/pages/word/PageNumber.html)
