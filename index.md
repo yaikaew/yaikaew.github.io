@@ -44,3 +44,5 @@ Instagram : [yaikaew03](https://www.instagram.com/yaikaew03/)
 [Create Cover](https://yaikaew.github.io/pages/word/Cover.html)
 
 [Page Number](https://yaikaew.github.io/pages/word/PageNumber.html)
+
+[Table of Contents](https://yaikaew.github.io/pages/word/TableofContents.html)
