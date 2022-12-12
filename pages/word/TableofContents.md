@@ -6,7 +6,7 @@ title: Table of Contents
 
 ## Table of Contents
 
-สร้างหัวข้อที่เรสต้องการทำไปใส่ในสารบัญ
+สร้างหัวข้อที่เราต้องการทำไปใส่ในสารบัญ
 
 ![01](/images/word/table_of_contents/01.png)
 
