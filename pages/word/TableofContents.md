@@ -38,7 +38,7 @@ title: Table of Contents
 
 ![08](/images/word/table_of_contents/08.png)
 
-ตั้งค่าตามชอบได้เลย
+ตั้งค่าตามชอบ
 
 ![09](/images/word/table_of_contents/09.png)
 
