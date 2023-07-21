@@ -14,7 +14,7 @@ title: Install Ubuntu Desktop on VMware
 
 **- Open VMware**
 
-if you're not download [click here](https://yaikaew.github.io/pages/InstallUbuntuServeronVMware.html)
+if you're not download [click here](https://yaikaew.github.io/pages/SoftwareDev/InstallUbuntuServeronVMware.html)
 
 ![02](/images/SoftwareDev/Install Ubuntu Desktop on VMware/02.png)
 
